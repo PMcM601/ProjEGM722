@@ -27,8 +27,13 @@ Files in this repository will demonstrate dependencies of modules required. All 
 Data was sourced from:
 
 LMAs - DAERA https://www.daera-ni.gov.uk/sites/default/files/publications/doe/localmanagementareashp.zip
+
 LGDs - OpenDataNI: https://hub.arcgis.com/api/v3/datasets/eaa08860c50045deb8c4fdc7fa3dac87_2/downloads/data?format=shp&spatialRefId=29902&where=1%3D1
+
 Modelled Spills May 2024 - NI Water: https://www.niwater.com/siteFiles/resources/xls/NIWaterModelledSpillsMay2024v2.xlsx
+
 Wastewater Treatment Works Treated Discharges May 2024 - NI Water: https://www.niwater.com/siteFiles/resources/xls/NIWaterTreatedDischargesMay2024.xlsx
+
 Event Duration Monitor Data - NI Water: https://www.niwater.com/siteFiles/resources/2025/EventDurationMonitorDataApril2025.xlsx
+
 OSNI Gazetteer Place Names - OpenDataNI: https://hub.arcgis.com/api/v3/datasets/c116f31b481044769b75377946afa1c2_1/downloads/data?format=shp&spatialRefId=29902&where=1%3D1
